@@ -1,9 +1,9 @@
 url: localhost
 
 # Site settings
-title: Acorn
-email: aadam21@gmail.com
-description: "The Athens-Clarke Opportunities and Resources Newsletter (ACORN) is a monthly e-newsletter highlighting events, opportunities and activities available through the Green School program."
+title: The American Chestnut Foundation
+email: dana.e.phillips@gmail.com
+description: "The American Chestnut Foundation is launching a capital campaign to build a learning forest where individuals from all over the United States can see the beauty of the American Chestnut and other American heritage trees."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -13,7 +13,7 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Dana Phillips
+- name: Ryan McNeill
   pic: 1
   position: Lead Designer
   social:
@@ -24,7 +24,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Dana Phillips
   pic: 2
   position: Lead Marketer
   social:
@@ -35,7 +35,40 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Gabby Bassett
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Brieanna Winkelmann
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Alex Roberson
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Michelle Farist
   pic: 3
   position: Lead Developer
   social:
