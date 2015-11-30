@@ -663,6 +663,7 @@ section#contact {
 section#contact .section-heading {
     color: #333;
     text-shadow: #fff 1px 1px 1px;
+    text-align: left;
 }
 
 section#contact .form-group {

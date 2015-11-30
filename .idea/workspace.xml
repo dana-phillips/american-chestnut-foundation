@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b515e40b-4291-4259-8d4f-9aeeed7c7a44" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/contact.html" afterPath="$PROJECT_DIR$/_includes/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/agency.css" afterPath="$PROJECT_DIR$/_includes/css/agency.css" />
     </list>
     <ignored path="acorn.iws" />
@@ -36,20 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.8431373">
-              <caret line="664" column="34" selection-start-line="664" selection-start-column="34" selection-end-line="664" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.61358315">
+              <caret line="665" column="21" selection-start-line="665" selection-start-column="21" selection-end-line="665" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13215859">
+            <state vertical-scroll-proportion="-2.5">
               <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
               <folding />
             </state>
@@ -151,8 +150,8 @@
         <option value="$PROJECT_DIR$/_site/web development/2014/07/14/project-5/index.html" />
         <option value="$PROJECT_DIR$/_includes/services.html" />
         <option value="$PROJECT_DIR$/_includes/donate.html" />
-        <option value="$PROJECT_DIR$/_includes/css/agency.css" />
         <option value="$PROJECT_DIR$/_includes/contact.html" />
+        <option value="$PROJECT_DIR$/_includes/css/agency.css" />
       </list>
     </option>
   </component>
@@ -416,7 +415,13 @@
       <option name="project" value="LOCAL" />
       <updated>1448848285993</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changed the background image for the contact section and removed unnecessary subheading.  Styled section heading to it stands out better as well.">
+      <created>1448850479467</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1448850479467</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -458,7 +463,8 @@
     <MESSAGE value="Updated font-awesome fonts for the services, and added a chestnut .jpg for the donate timeline." />
     <MESSAGE value="Updated the chestnut logo so the image is hosted on Amazon S3 instead of in the app directory." />
     <MESSAGE value="Uploaded new header background image to S3 and set URL in agency.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded new header background image to S3 and set URL in agency.css" />
+    <MESSAGE value="Changed the background image for the contact section and removed unnecessary subheading.  Styled section heading to it stands out better as well." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed the background image for the contact section and removed unnecessary subheading.  Styled section heading to it stands out better as well." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -739,18 +745,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
+    <entry file="file://$PROJECT_DIR$/_includes/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.8431373">
-          <caret line="664" column="34" selection-start-line="664" selection-start-column="34" selection-end-line="664" selection-end-column="34" />
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/contact.html">
+    <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13215859">
-          <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+        <state vertical-scroll-proportion="0.61358315">
+          <caret line="665" column="21" selection-start-line="665" selection-start-column="21" selection-end-line="665" selection-end-column="21" />
           <folding />
         </state>
       </provider>
