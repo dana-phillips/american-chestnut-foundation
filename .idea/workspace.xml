@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b515e40b-4291-4259-8d4f-9aeeed7c7a44" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/chestnut-map.jpeg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/chestnut-map.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/Chestnut-Learning-Box.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" afterPath="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" />
     </list>
     <ignored path="acorn.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,16 +58,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/css/font-awesome/css/font-awesome.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="15.411765">
-              <caret line="3" column="7470" selection-start-line="3" selection-start-column="7470" selection-end-line="3" selection-end-column="7470" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/css/font-awesome/css/font-awesome.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,18 +91,28 @@
       <file leaf-file-name="2014-07-18-project-1.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.333333">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="-4.4444447">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-07-17-project-2.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2014-07-17-project-2.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49889135">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="-4.4444447">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-07-16-project-3.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2660754">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -155,8 +156,9 @@
         <option value="$PROJECT_DIR$/_includes/contact.html" />
         <option value="$PROJECT_DIR$/_includes/css/agency.css" />
         <option value="$PROJECT_DIR$/_includes/modals.html" />
-        <option value="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" />
         <option value="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" />
       </list>
     </option>
   </component>
@@ -494,7 +496,13 @@
       <option name="project" value="LOCAL" />
       <updated>1448852297026</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Resized chestnut-map image to match other portfolio images and keep layout consistent.">
+      <created>1448852689694</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1448852689694</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -543,7 +551,8 @@
     <MESSAGE value="Removed client, date, and service from portfolio modal." />
     <MESSAGE value="Changed subtitle for the Heritage Education Farm Site" />
     <MESSAGE value="Added image and set title and subtitle for the second modal in the portfolio section." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added image and set title and subtitle for the second modal in the portfolio section." />
+    <MESSAGE value="Resized chestnut-map image to match other portfolio images and keep layout consistent." />
+    <option name="LAST_COMMIT_MESSAGE" value="Resized chestnut-map image to match other portfolio images and keep layout consistent." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -857,14 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.333333">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/portfolio_grid.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.25">
@@ -883,8 +884,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49889135">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="-4.4444447">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.4444447">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2660754">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding />
         </state>
       </provider>
