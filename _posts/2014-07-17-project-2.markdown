@@ -7,6 +7,6 @@ date: 2014-07-17
 img: chestnut-map.jpeg
 thumbnail: chestnut-map.jpeg
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The American Chestnut tree reigned over 200 million acres of eastern woodlands from Maine to Florida, and from the Piedmont plateau in the Carolinas west to the Ohio Valley, until succumbing to a lethal fungus infestation, known as the chestnut blight, during the first half of the 20th century. An estimated 4 billion American chestnuts, up to 1/4 of the hardwood tree population, grew within this range. It is our hope to restore the American Chestnut tree to its former glory.
 
 ---
