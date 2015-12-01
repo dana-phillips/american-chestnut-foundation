@@ -13,9 +13,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Ryan McNeill
+- name: Dana Phillips
   pic: 1
-  position: American Chestnut Foundation Georgia Chapter Member
+  position: Consultant
   social:
     - title: twitter
       url: #
@@ -24,9 +24,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Dana Phillips
+- name: Ryan McNeill
   pic: 2
-  position: Consultant
+  position: GA Chapter Board Member
   social:
     - title: twitter
       url: #
