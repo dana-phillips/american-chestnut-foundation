@@ -7,6 +7,6 @@ date: 2014-07-18
 img: farmhouse.jpg
 thumbnail: farmhouse.jpg
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This is our farm outside of our headquarters in Asheville, NC. Through the years the owners have fostered American Chestnut trees as well as a handful of existing American Chestnuts that were not killed by the blight in the early 1900s. We are currently seeking donations to renovate the farmhouse and barn into classrooms and outdoor learning environments. We want people to be able to see the beauty of the American Chestnut as well as other heritage trees that make up the Appalachian Forest.
 
 ---
