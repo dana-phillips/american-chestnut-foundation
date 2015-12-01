@@ -15,7 +15,7 @@ color:
 people:
 - name: Ryan McNeill
   pic: 1
-  position: Lead Designer
+  position: American Chestnut Foundation Georgia Chapter Member
   social:
     - title: twitter
       url: #
@@ -26,7 +26,7 @@ people:
 
 - name: Dana Phillips
   pic: 2
-  position: Lead Marketer
+  position: Consultant
   social:
     - title: twitter
       url: #
@@ -37,7 +37,7 @@ people:
 
 - name: Gabby Bassett
   pic: 3
-  position: Lead Developer
+  position: Consultant
   social:
     - title: twitter
       url: #
@@ -48,7 +48,7 @@ people:
 
 - name: Brieanna Winkelmann
   pic: 3
-  position: Lead Developer
+  position: Consultant
   social:
     - title: twitter
       url: #
@@ -59,7 +59,7 @@ people:
 
 - name: Alex Roberson
   pic: 3
-  position: Lead Developer
+  position: Consultant
   social:
     - title: twitter
       url: #
@@ -70,7 +70,7 @@ people:
 
 - name: Michelle Farist
   pic: 3
-  position: Lead Developer
+  position: Consultant
   social:
     - title: twitter
       url: #
@@ -94,8 +94,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 50 North Merrimon Avenue Suite 115
+  - line: Asheville, NC 28804
 
 # Build settings
 markdown: kramdown
