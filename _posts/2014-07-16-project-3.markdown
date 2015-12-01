@@ -8,6 +8,5 @@ img: Chestnut-Learning-Box.jpg
 thumbnail: Chestnut-Learning-Box.jpg
 alt: image-alt
 description: The American Chestnut Learning Box for school aged students utilizes various subjects to teach them about the importance of the American Chestnut tree and the measures that are being taken to ensure its restoration in the Appalachian region. Each box contains nuts, burs and leaves from American and Chinese chestnut trees, a chestnut “tree cookie” (tree ring slice), five different types of wood blocks, chestnut tree sections showing inoculation sites and chestnut blight, and a binder with explanatory fact sheets for each sample and learning materials.
-.
 
 ---
